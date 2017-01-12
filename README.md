@@ -23,6 +23,7 @@ In addition, it is common to use [wgsim](https://github.com/lh3/wgsim) to simula
 ~~~~~~~~~~~~~~~~~~
 git clone git://github.com/GregoryFaust/SVsim.git
 cp SVsim/SVsim /usr/local/bin/
+chmod 755 /usr/local/bin/SVsim
 ~~~~~~~~~~~~~~~~~~
 
 ##Usage
